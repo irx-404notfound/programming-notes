@@ -1,5 +1,4 @@
-> [!NOTE]
-> BASIC HTML PROGRAMMING STRUCTURES
+# BASIC HTML PROGRAMMING STRUCTURES
 
 ```html
 <!DOCTYPE html> <!-- Tells the browser which we are using HTML5 -->
