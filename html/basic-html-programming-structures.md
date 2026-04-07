@@ -1,6 +1,7 @@
 > [!NOTE]
 > BASIC HTML PROGRAMMING STRUCTURES
 
+'''html
 <!DOCTYPE html> <!-- Indica al navegador que usamos HTML5 -->
 
 <html lang=”es”> <!-- Define el idioma de la página -->
@@ -36,3 +37,4 @@
 	</body>
 
 </html>
+'''
