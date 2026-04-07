@@ -1,10 +1,10 @@
 # BASIC HTML PROGRAMMING STRUCTURES
 
-> [!IMPORTANT]
+> [!NOTE]
 ```html
 > <!DOCTYPE html> and <html></html> are required elements for correct operation of the website.
 ```
-> [!WARNING]
+> [!NOTE]
 ```html
 > <head></head> and <body></body> are highly recommended for proper structure and readability of the website.
 ```
