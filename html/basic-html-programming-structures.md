@@ -1,6 +1,6 @@
 # BASIC HTML PROGRAMMING STRUCTURE
 
-> [!WARNING]
+> [!NOTE]
 > <!DOCTYPE html> and <html></html> are required elements for correct operation of the website.
 
 > ⚠ REQUIRED ELEMENTS
