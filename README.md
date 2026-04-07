@@ -4,10 +4,8 @@
 ## HTML
 
 👨‍💻 [BASIC HTML PROGRAMMING STRUCTURES](html/basic-html-programming-structures.md)
-> Required elements
-
-> Recommended elements
-
-> Basic structure
+- Required elements
+- Recommended elements
+- Basic structure
 
 🎱 [HTML ELEMENTS](html/html-elements.md)
