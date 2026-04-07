@@ -1,10 +1,13 @@
 # BASIC HTML PROGRAMMING STRUCTURES
 
 > [!IMPORTANT]
+```html
 > <!DOCTYPE html> and <html></html> are required elements for correct operation of the website.
-
+```
 > [!WARNING]
+```html
 > <head></head> and <body></body> are highly recommended for proper structure and readability of the website.
+```
 
 ```html
 <!DOCTYPE html> <!-- Tells the browser which we are using HTML5 -->
