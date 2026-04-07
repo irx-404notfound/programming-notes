@@ -1,14 +1,14 @@
 # BASIC HTML PROGRAMMING STRUCTURES
 
-> Required elements:
+> REQUIRED ELEMENTS
 ```html
 <!DOCTYPE html> and <html></html> are required elements for correct operation of the website.
 ```
-> [!NOTE]
+> RECOMMENDED ELEMENTS
 ```html
 <head></head> and <body></body> are highly recommended for proper structure and readability of the website.
 ```
-
+> BASIC STRUCTURE
 ```html
 <!DOCTYPE html> <!-- Tells the browser which we are using HTML5 -->
 
