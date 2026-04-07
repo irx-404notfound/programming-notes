@@ -1,4 +1,5 @@
-# BASIC HTML PROGRAMMING STRUCTURES
+> [!NOTE]
+> BASIC HTML PROGRAMMING STRUCTURES
 
 <!DOCTYPE html> <!-- Indica al navegador que usamos HTML5 -->
 
