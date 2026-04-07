@@ -6,6 +6,7 @@
 <html lang=”es”> <!-- Define el idioma de la página -->
 
 	<head>
+	
 		<meta charset=”UTF-8”> <!-- Caracteres que puede usar -->
 		
 		<title></title> <!-- Título que aparece en la pestaña del navegador -->
@@ -15,6 +16,7 @@
 			- JS (scripts)
 			- meta etiquetas 
 		-->
+		
 	</head>
 
 	<body>
