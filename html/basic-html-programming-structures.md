@@ -2,17 +2,17 @@
 > BASIC HTML PROGRAMMING STRUCTURES
 
 ```html
-<!DOCTYPE html> <!-- Tell to the browser which we are using HTML5 -->
+<!DOCTYPE html> <!-- Tells the browser which we are using HTML5 -->
 
-<html lang="es"> <!-- Defines the languaje of the page -->
+<html lang="es"> <!-- Defines the language of the page -->
 
 <head>
 
-    <meta charset="UTF-8"> <!-- Characters which the page can use -->
+    <meta charset="UTF-8"> <!-- Characters that the page can use -->
     
-    <title></title> <!-- Title that appears in the page tab -->
+    <title></title> <!-- Title that appears in the browser tab -->
 
-    <!-- Here you can also use: 
+    <!-- Here you can also add: 
         - CSS (styles)
         - JS (scripts)
         - meta tags
@@ -27,7 +27,7 @@
     </header>
 
     <main>
-        <!-- Principal contect of the website -->
+        <!-- Main content of the website -->
     </main>
 
     <footer>
