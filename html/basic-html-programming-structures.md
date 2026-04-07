@@ -12,7 +12,7 @@
 ```html
 <!DOCTYPE html> <!-- Tells the browser which we are using HTML5 -->
 
-<html lang="es"> <!-- Defines the language of the page -->
+<html lang="en"> <!-- Defines the language of the page -->
 
 <head>
 
