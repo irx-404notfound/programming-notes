@@ -1,7 +1,7 @@
 # BASIC HTML PROGRAMMING STRUCTURE
 
 > [!NOTE]
-> This is a note.
+> ```<!DOCTYPE html> and <html></html> are required elements for correct operation of the website.```
 
 > [!WARNING]
 > This is a warning.   
