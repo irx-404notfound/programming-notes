@@ -2,11 +2,11 @@
 
 > Required elements:
 ```html
-> <!DOCTYPE html> and <html></html> are required elements for correct operation of the website.
+<!DOCTYPE html> and <html></html> are required elements for correct operation of the website.
 ```
 > [!NOTE]
 ```html
-> <head></head> and <body></body> are highly recommended for proper structure and readability of the website.
+<head></head> and <body></body> are highly recommended for proper structure and readability of the website.
 ```
 
 ```html
