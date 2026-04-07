@@ -1,2 +1,2 @@
 > [!NOTE]
-> HTML elements
+> HTML ELEMENTS
