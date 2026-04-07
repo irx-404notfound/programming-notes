@@ -3,7 +3,7 @@
 
 ## HTML
 
-👨‍💻 [BASIC HTML PROGRAMMING STRUCTURES](html/basic-html-programming-structures.md)
+👨‍💻 [BASIC HTML PROGRAMMING STRUCTURE](html/basic-html-programming-structures.md)
 - Required elements
 - Recommended elements
 - Basic structure
