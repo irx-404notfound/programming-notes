@@ -17,3 +17,5 @@
 ☢ [REQUIRED APPLICATIONS FOR REACT](./react/required-applications.md)
 
 [CREATE A NEW PROJECT FOR REACT](./react/create-new-project.md)
+
+[TEST](react/)
