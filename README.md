@@ -9,3 +9,6 @@
 - Basic structure
 
 🎱 [HTML ELEMENTS](html/html-elements.md)
+
+## REACT
+[REQUIRED APPLICATIONS](react/required-applications)
