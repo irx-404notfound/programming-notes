@@ -59,3 +59,5 @@ Install [Visual Studio Code](https://code.visualstudio.com/download) and, within
 - ES7 + React Snippets
 - Prettier (for automatically reset)
 - Auto Rename Tag
+
+Also, you can install the React Developer Tools extension in your browser for see your components and depure your app. 
