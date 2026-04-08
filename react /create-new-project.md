@@ -1,6 +1,6 @@
 # CREATING NEW PROJECT FOR REACT
 
-![REACT](images/uwu.png)
+![REACT](../images/uwu.png)
 
 ## CREATE NEW PROJECT
 
