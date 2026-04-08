@@ -42,3 +42,4 @@ VITE v8.0.7 ready in 928 ms
   Network: use --host to expose
   press h + enter to show help
 ```
+Then you can copy the local link ant paste in your favorite browser. 
