@@ -14,6 +14,6 @@
 
 ![REACT](images/uwu.png)
 
-☢ [REQUIRED APPLICATIONS FOR REACT](react/required-applications.md)
+☢ [REQUIRED APPLICATIONS FOR REACT](./react/required-applications.md)
 
-[CREATE A NEW PROJECT FOR REACT](react/create-new-project.md)
+[CREATE A NEW PROJECT FOR REACT](./react/create-new-project.md)
