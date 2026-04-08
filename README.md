@@ -1,5 +1,5 @@
 # PROGRAMMING NOTES 💻
-🚀 Programming notes about HTML and CSS to improve programming skills.
+🚀 Programming notes for website development.
 
 ## HTML
 
