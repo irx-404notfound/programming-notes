@@ -22,3 +22,11 @@ JavaScript
 Install with npm and start now?
 Yes
 ```
+
+```bash
+cd name_of_the_project
+
+npm install
+
+npm run dev
+```
