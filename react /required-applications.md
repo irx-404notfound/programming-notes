@@ -12,3 +12,8 @@ What it does?
 - Runs JavaScript outside the browser.
 - Allows you to use tools like Vite.
 - Includes npm (package manager).
+
+## NPM (INCLUDED IN NODE.JS)
+```
+It installs automatically with Node.js
+```
