@@ -1,7 +1,5 @@
 # CREATING NEW PROJECT FOR REACT
 
-![REACT](../images/uwu.png)
-
 ## CREATE NEW PROJECT
 
 ```bash
