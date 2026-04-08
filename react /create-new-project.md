@@ -60,4 +60,4 @@ Install [Visual Studio Code](https://code.visualstudio.com/download) and, within
 - Prettier (for automatically reset)
 - Auto Rename Tag
 
-You can also install the React Developer Tools extension in your browser to view your components and debug your app. 
+You can also install the [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) extension in your browser to view your components and debug your app. 
