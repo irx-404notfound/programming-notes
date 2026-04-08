@@ -25,5 +25,5 @@ What it does?
 ## 🟢 Vite
 
 ```
-Create the project with Vite.
+Create the project using Vite.
 ```
