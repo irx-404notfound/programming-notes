@@ -13,11 +13,11 @@ What it does?
 - Allows you to use tools like Vite.
 - Includes npm (package manager).
 
-## NPM (INCLUDED IN NODE.JS)
+## 🔵 NPM (INCLUDED IN NODE.JS)
 ```
 It installs automatically with Node.js
 ```
 What it does?
 
-- Runs libraries (React, Vite, etc.)
+- Runs libraries (React, Vite, etc.).
 - Runs project commands.
