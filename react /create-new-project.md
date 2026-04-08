@@ -1,7 +1,5 @@
 # CREATING NEW PROJECT FOR REACT
 
-## CREATE NEW PROJECT
-
 ```bash
 npm create vite@latest
 ```
