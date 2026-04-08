@@ -43,3 +43,19 @@ VITE v8.0.7 ready in 928 ms
   press h + enter to show help
 ```
 Then you can copy the local link ant paste in your favorite browser. 
+
+What it's installing automatically?
+
+- React.
+- React DOM (for the browser).
+- Vite (development server).
+- All configurated.
+
+> [!TIP]
+> This option is optional, but it's recommended.
+
+Install Visual Studio Code and inside it, install these extensions:
+
+- ES7 + React Snippets
+- Prettier (for automatically reset)
+- Auto Rename Tag
