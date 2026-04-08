@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-After use thoose comands, that appears in your bash:
+After running these comands, that appears in your bash:
 
 ```bash
 VITE v8.0.7 ready in 928 ms
@@ -42,9 +42,9 @@ VITE v8.0.7 ready in 928 ms
   Network: use --host to expose
   press h + enter to show help
 ```
-Then you can copy the local link ant paste in your favorite browser. 
+Next, you can copy the local link and paste it into your favorite browser. 
 
-What it's installing automatically?
+What gets installed automatically?
 
 - React.
 - React DOM (for the browser).
@@ -52,7 +52,7 @@ What it's installing automatically?
 - All configurated.
 
 > [!TIP]
-> This option is optional, but it's recommended.
+> This step is optional, but recommended.
 
 Install [Visual Studio Code](https://code.visualstudio.com/download) and inside it, install these extensions:
 
