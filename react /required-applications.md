@@ -21,3 +21,9 @@ What it does?
 
 - Runs libraries (React, Vite, etc.).
 - Runs project commands.
+
+## 🟢 Vite
+
+```
+Create the project with Vite.
+```
