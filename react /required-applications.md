@@ -17,3 +17,7 @@ What it does?
 ```
 It installs automatically with Node.js
 ```
+What it does?
+
+- Runs libraries (React, Vite, etc.)
+- Runs project commands.
