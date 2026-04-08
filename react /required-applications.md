@@ -8,3 +8,7 @@
 Whithout this app, React doesn't work. It's the most important app.
 ```
 What it does?
+
+- Execute JavaScript out of the browser.
+- Allows to use tools like Vite.
+- Includes npm (package manager).
