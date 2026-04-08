@@ -11,4 +11,4 @@
 🎱 [HTML ELEMENTS](html/html-elements.md)
 
 ## REACT
-[REQUIRED APPLICATIONS](react/required-applications)
+[REQUIRED APPLICATIONS](react/required-applications.md)
