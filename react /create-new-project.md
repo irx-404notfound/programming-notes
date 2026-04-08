@@ -4,7 +4,9 @@
 
 ```bash
 npm create vite@latest
+```
 
+```bash
 Project name:
 ActStudio
 
