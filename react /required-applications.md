@@ -1,2 +1,4 @@
+# REQUIRED APPLICATIONS FOR REACT
+
 > [!IMPORTANT]
-> These applications are required for the correct operation of react, so be sure to install them.
+> These applications are required for the correct operation of react, so be sure to install them.# 
