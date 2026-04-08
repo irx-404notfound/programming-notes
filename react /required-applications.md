@@ -5,5 +5,5 @@
 
 ## 🟢 NODE.JS
 ```html
-Whithout this app, <style="color: blue">React</style> doesn't work. It's the most important app.
+Whithout this app, React doesn't work. It's the most important app.
 ```
