@@ -32,3 +32,13 @@ npm install
 
 npm run dev
 ```
+
+After use thoose comands, that appears in your bash:
+
+```bash
+VITE v8.0.7 ready in 928 ms
+
+  Local: http://localhost:5173/
+  Network: use --host to expose
+  press h + enter to show help
+```
