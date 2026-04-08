@@ -5,5 +5,5 @@
 
 ## 🟢 NODE.JS
 ```html
-<p>Whithout this app, React doesn't work. It's the most important app.</p>
+Whithout this app, React doesn't work. It's the most important app.
 ```
