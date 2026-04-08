@@ -54,7 +54,7 @@ What it's installing automatically?
 > [!TIP]
 > This option is optional, but it's recommended.
 
-Install Visual Studio Code and inside it, install these extensions:
+Install [Visual Studio Code](https://code.visualstudio.com/download) and inside it, install these extensions:
 
 - ES7 + React Snippets
 - Prettier (for automatically reset)
