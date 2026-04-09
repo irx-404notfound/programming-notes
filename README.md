@@ -10,11 +10,11 @@
 
 🎱 [HTML ELEMENTS](html/html-elements.md)
 
-## JAVA SCRIPT
+## JAVASCRIPT
 
-🔵 [FUNDAMENTS FOR JAVA SCRIPT](java-script/js-fundaments.md)
+🔵 [FUNDAMENTS FOR JAVASCRIPT](java-script/js-fundaments.md)
 
-⚠️ [REQUIRED APPLICATIONS FOR JAVA SCRIPT](java-script/js-required-applications.md)
+⚠️ [REQUIRED APPLICATIONS FOR JAVASCRIPT](java-script/js-required-applications.md)
 
 ### REACT
 
