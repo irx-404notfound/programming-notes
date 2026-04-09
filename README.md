@@ -20,6 +20,6 @@
 
 ![REACT](images/uwu.png)
 
-☢ [REQUIRED APPLICATIONS FOR REACT](java-script/react/required-applications.md)
+⚠️ [REQUIRED APPLICATIONS FOR REACT](java-script/react/required-applications.md)
 
 🆕 [CREATE A NEW PROJECT FOR REACT](java-script/react/create-new-project.md)
