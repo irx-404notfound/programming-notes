@@ -4,4 +4,4 @@
 > These applications are required for the correct use of Java Script.
 
 - Visual Studio Code
-- NodeJS
+- Node.js - [Download](https://nodejs.org/en/download)
