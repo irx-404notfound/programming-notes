@@ -3,15 +3,15 @@
 ## VARIABLES
 
 > [!NOTE]
-> let is a variable that can change and be modified after their first use.
+> `let` declares a variable that can be reassigned after its initial declaration.
 
 ```javascript
 let firstName = "Iraia";
 let lastName = "Espinosa";
 ```
 
->[!NOTE]
-> const is a variable that cannot bet changed after their first use.
+> [!NOTE]
+> `const` declares a variable that cannot be reassigned after its initial declaration.
 
 ```javascript
 const fullName = `${firstName} ${lastName}`;
