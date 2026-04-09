@@ -22,3 +22,7 @@ Output:
 ```javascript
 console.log(fullName);
 ```
+
+```bash
+Iraia Espinosa
+```
