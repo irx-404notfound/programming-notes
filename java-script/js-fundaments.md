@@ -45,4 +45,4 @@ Iraia Espinosa
 ### RESERVED WORDS
 
 > [!IMPORTANT]
-> In JavaScript there are some word reserved for the code, so you need to be carefull because you can't use the reserved words of then language.
+> In JavaScript, there are some reserved words that cannot be used as variable names, so you need to be careful not to use them.
