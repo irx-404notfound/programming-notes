@@ -40,4 +40,9 @@ Iraia Espinosa
 ### READABILITY
 
 > [!IMPORTANT]
-> The use of spaces and tabs is very important for better understanding the code you're writing. 
+> The use of spaces and tabs is very important for better understanding the code you're writing.
+
+### RESERVED WORDS
+
+> [!IMPORTANT]
+> In JavaScript there are some word reserved for the code, so you need to be carefull because you can't use the reserved words of then language.
