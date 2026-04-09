@@ -36,3 +36,8 @@ Iraia Espinosa
 
 > [!IMPORTANT]
 > JavaScript is case-sensitive, so you need to be careful with the names you assign.
+
+### READABILITY
+
+> [!IMPORTANT]
+> The use of spaces and tabs is very important for better understanding the code you're writing. 
