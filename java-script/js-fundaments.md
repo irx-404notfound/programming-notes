@@ -34,3 +34,5 @@ Iraia Espinosa
 
 ### CASE SENSITIVE
 
+> [!IMPORTANT]
+> JavaScript is case-sensitive, so you need to be careful with the names you assign.
