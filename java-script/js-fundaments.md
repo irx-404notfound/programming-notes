@@ -3,8 +3,8 @@
 ## VARIABLES
 
 ```javascript
-let firstName = "Iraia"; /* let = variable que puede cambiar */
+let firstName = "Iraia"; /* let = A variable that can change */
 let lastName = "Espinosa";
-const fullName = `${firstName} ${lastName}`; /* const = variable especial que no se puede modificar */
+const fullName = `${firstName} ${lastName}`; /* const = a variable that cannot be changed */
 ```
 
