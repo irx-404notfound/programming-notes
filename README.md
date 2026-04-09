@@ -14,6 +14,8 @@
 
 🔵 [FUNDAMENTS FOR JAVA SCRIPT](java-script/js-fundaments.md)
 
+[REQUIRED APPLICATIONS FOR JAVA SCRIPT]()
+
 ### REACT
 
 ![REACT](images/uwu.png)
