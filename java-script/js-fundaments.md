@@ -26,3 +26,8 @@ console.log(fullName);
 ```bash
 Iraia Espinosa
 ```
+
+## SYNTAX
+
+> [!IMPORTANT]
+> All the lines of the code needs to end in `;`.
