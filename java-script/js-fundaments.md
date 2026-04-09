@@ -46,3 +46,15 @@ Iraia Espinosa
 
 > [!IMPORTANT]
 > In JavaScript, there are some reserved words that cannot be used as variable names, so you need to be careful not to use them.
+
+Here are some reserved words:
+
+- var
+- let
+- function
+- if
+- else
+- try
+- catch
+- for
+- while
