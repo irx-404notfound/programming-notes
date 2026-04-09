@@ -12,7 +12,7 @@
 
 ## JAVA SCRIPT
 
-[FUNDAMENTS FOR JAVA SCRIPT](java-script/js-fundaments.md)
+🔵 [FUNDAMENTS FOR JAVA SCRIPT](java-script/js-fundaments.md)
 
 ### REACT
 
