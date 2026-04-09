@@ -17,3 +17,8 @@ let lastName = "Espinosa";
 const fullName = `${firstName} ${lastName}`;
 ```
 
+Output:
+
+```javascript
+console.log(fullName);
+```
