@@ -30,4 +30,4 @@ Iraia Espinosa
 ## SYNTAX
 
 > [!IMPORTANT]
-> All the lines of the code needs to end in `;`, but if instead of end the line in `;` you end the line with a line break, the code editor automatically puts `;` in all of line breaks. But is better to write the `;` in the end of all the lines end.
+> All lines of code should end with a `;`. However, if you omit the semicolon and use a line break instead, JavaScript may automatically insert it. Still, it is better to always write semicolons at the end of each line.
