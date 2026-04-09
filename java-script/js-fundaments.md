@@ -31,3 +31,6 @@ Iraia Espinosa
 
 > [!IMPORTANT]
 > All lines of code should end with a `;`. However, if you omit the semicolon and use a line break instead, JavaScript may automatically insert it. Still, it is better to always write semicolons at the end of each line.
+
+### CASE SENSITIVE
+
