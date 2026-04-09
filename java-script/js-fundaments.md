@@ -30,4 +30,4 @@ Iraia Espinosa
 ## SYNTAX
 
 > [!IMPORTANT]
-> All the lines of the code needs to end in `;`.
+> All the lines of the code needs to end in `;`, but if instead of end the line in `;` you end the line with a line break, the code editor automatically puts `;` in all of line breaks.
