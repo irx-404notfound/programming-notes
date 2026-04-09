@@ -58,3 +58,6 @@ Here are some reserved words:
 - catch
 - for
 - while
+
+> [!NOTE]
+> Code is typically written in English
