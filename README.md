@@ -10,10 +10,14 @@
 
 🎱 [HTML ELEMENTS](html/html-elements.md)
 
-## REACT
+## JAVA SCRIPT
+
+[FUNDAMENTS FOR JAVA SCRIPT](java-script/js-fundaments.md)
+
+### REACT
 
 ![REACT](images/uwu.png)
 
-☢ [REQUIRED APPLICATIONS FOR REACT](react/required-applications.md)
+☢ [REQUIRED APPLICATIONS FOR REACT](java-script/react/required-applications.md)
 
-🆕 [CREATE A NEW PROJECT FOR REACT](react/create-new-project.md)
+🆕 [CREATE A NEW PROJECT FOR REACT](java-script/react/create-new-project.md)
