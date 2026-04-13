@@ -45,6 +45,7 @@ let ourValue;
 ## NULL
 
 - Valor referenciado usado de forma intencionada para indicar que una variable tiene un valor inexistente y que no existen referencias en la memoria.
+- Es considerado como un objeto por JavaScript
 
 ```javascript
 let ourValue = null;
