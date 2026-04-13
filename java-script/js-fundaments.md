@@ -29,10 +29,15 @@ Iraia Espinosa
 
 ### VARIABLE TYPES
 
-> [!NOTE]
-> casting --> puede pasar de numero a booleano. Conversion.
- 
-- Se determina en tiempo de ejecucion, mientras el script se va ejucutando se va determinando el tipo de la variable.
+- Dynamic typing: The type of the variable change by the time of execution of the code.
+
+```javascript
+let value = 10; // number
+value = "hello"; // string
+value = true; // boolean
+```
+
+- Casting: This type of variable is when the value changes from one type to another. 
 
 ## SYNTAX
 
