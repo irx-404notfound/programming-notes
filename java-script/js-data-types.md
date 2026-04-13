@@ -31,3 +31,13 @@ Example:
 ```javascript
 let userActive = true;
 ```
+
+## UNDEFINED
+
+- Valor por defecto que asigna JavaScript a variables que solo se han declarado, poero no tienen valor asignado.
+
+Example:
+
+```javascript
+let ourValue;
+```
