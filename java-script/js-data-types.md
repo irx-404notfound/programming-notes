@@ -41,3 +41,11 @@ Example:
 ```javascript
 let ourValue;
 ```
+
+## NULL
+
+- Valor referenciado usado de forma intencionada para indicar que una variable tiene un valor inexistente y que no existen referencias en la memoria.
+
+```javascript
+let ourValue = null;
+```
