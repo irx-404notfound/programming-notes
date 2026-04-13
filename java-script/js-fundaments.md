@@ -37,7 +37,19 @@ value = "hello"; // string
 value = true; // boolean
 ```
 
-- Casting: This type of variable is when the value changes from one type to another. 
+- Casting: This type of variable is when the value changes from one type to another. JavaScript changes the type without yo ask.
+
+Examples:
+
+> [!NOTE]
+> The number `2` value changes to `string`.
+
+```javascript
+"5" + 2 // Result: "52"
+```
+
+> [!NOTE]
+> The string `5` value changes to `number`.
 
 ## SYNTAX
 
