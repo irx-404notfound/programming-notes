@@ -45,7 +45,7 @@ let ourValue;
 ## NULL
 
 - A value intentionally assigned to indicate that a variable has no value.
-- Null is not an object, but on JavaScript, it is considered a special type of object. 
+- Null is not an object, but in JavaScript, it is considered a special type of object. 
 
 ```javascript
 let ourValue = null;
