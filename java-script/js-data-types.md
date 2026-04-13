@@ -26,3 +26,8 @@ let price = 185;
 - Contiene datos logicos, es decir; solo puede contener los valores `true` o `false`.
 - Se emplea en `condicionales`, `bucles` y como `valor de retorno de una función`.
   
+Example:
+
+```javascript
+let userActive = true;
+```
