@@ -27,6 +27,13 @@ console.log(fullName);
 Iraia Espinosa
 ```
 
+### VARIABLE TYPES
+
+> [!NOTE]
+> casting --> puede pasar de numero a booleano. Conversion.
+ 
+- Se determina en tiempo de ejecucion, mientras el script se va ejucutando se va determinando el tipo de la variable.
+
 ## SYNTAX
 
 > [!IMPORTANT]
