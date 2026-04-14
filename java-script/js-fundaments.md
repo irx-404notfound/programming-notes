@@ -120,6 +120,30 @@ function `printCopyright`() {
 - Avoid spaces.
 - Avoid unnecessary numbers.
 - Avoid punctuation marks.
+
+## PARAMETERS
+
+A parameter is a value which that a function can receive like an argument when it is called.
+
+> [!NOTE]
+> Parameters are inside the `()` of a functions.
+
+```javascript
+function getCopyright(name, year) { // name and year are parameters.
+  let copyright = name + " - " + year;
+  return copyright;
+}
+```
+
+> [!NOTE]
+> When you provide values to a function when calling it, those values are called arguments.
+
+```javascript
+function getCopyright(name = "Iraia", year = "2026") {
+  let copyright = name + " - " + year;
+  return copyright;
+}
+```
   
 ## SYNTAX
 
