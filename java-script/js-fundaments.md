@@ -31,7 +31,7 @@ Iraia Espinosa
 
 #### Dynamic typing: 
 
-> The type of the variable change by the time of execution of the code.
+> The type of the variable changes during the execution of the code.
 
 Example:
 
