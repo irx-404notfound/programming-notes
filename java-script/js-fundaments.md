@@ -77,6 +77,8 @@ Boolean(0) // false
 Boolean(1) // true
 ```
 
+## FUNCTIONS
+
 ## SYNTAX
 
 > [!IMPORTANT]
