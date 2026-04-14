@@ -87,6 +87,12 @@ function printCopyright() {
 }
 ```
 
+To call the function, you need to use this:
+
+```javascript
+printCopyright();
+```
+
 ### Naming conventions for functions
 
 -Use camelCase.
