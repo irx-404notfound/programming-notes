@@ -79,7 +79,7 @@ Boolean(1) // true
 
 ## FUNCTIONS
 
-Es un bloque de codigo que realiza un conjunto de tareas.
+A function is a block of code that performs a specific set of tasks.
 
 ```javascript
 function printCopyright() {
@@ -87,14 +87,19 @@ function printCopyright() {
 }
 ```
 
-### Nomenclatura para nombrar las funciones
+### Naming conventions for functions
 
-- camelCase
+-Use camelCase.
 
 function `printCopyright`() {
   console.log("Iraia - 2026");
 }
 
+- Use descriptive names.
+- Avoid spaces.
+- Avoid unnecessary numbers.
+- Avoid punctuation marks.
+  
 ## SYNTAX
 
 > [!IMPORTANT]
