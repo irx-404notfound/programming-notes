@@ -31,6 +31,7 @@ Iraia Espinosa
 
 #### Dynamic typing: 
 
+> [!NOTE]
 > The type of the variable changes during the execution of the code.
 
 Example:
@@ -43,7 +44,8 @@ value = true; // boolean
 
 #### Casting: 
 
-> This is the process of converting a value from one type to another. In JavaScript, dthis can happen automatically without you asking, or you can manually force the conversion when needed.
+> [!NOTE]
+> This is the process of converting a value from one type to another. In JavaScript, this can happen automatically without you asking, or you can manually force the conversion when needed.
 
 Examples:
 
