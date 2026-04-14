@@ -79,6 +79,14 @@ Boolean(1) // true
 
 ## FUNCTIONS
 
+Es un bloque de codigo que realiza un conjunto de tareas.
+
+```javascript
+function printCopyright() {
+  console.log("Iraia - 2026");
+}
+```
+
 ## SYNTAX
 
 > [!IMPORTANT]
