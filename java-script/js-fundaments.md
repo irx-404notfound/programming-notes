@@ -90,6 +90,9 @@ function printCopyright() {
 
 To call the function, you need to use this:
 
+> [!WARNING]
+> If you don't call the function, it will never run.
+
 ```javascript
 printCopyright();
 ```
