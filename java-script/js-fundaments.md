@@ -29,7 +29,7 @@ Iraia Espinosa
 
 ### VARIABLE TYPES
 
-- Dynamic typing: The type of the variable change by the time of execution of the code.
+#### Dynamic typing: The type of the variable change by the time of execution of the code.
 
 ```javascript
 let value = 10; // number
@@ -37,7 +37,7 @@ value = "hello"; // string
 value = true; // boolean
 ```
 
-- Casting: This is the process of converting a value from one type to another. In JavaScript, dthis can happen automatically without you asking, or you can manually force the conversion when needed.
+#### Casting: This is the process of converting a value from one type to another. In JavaScript, dthis can happen automatically without you asking, or you can manually force the conversion when needed.
 
 Examples:
 
