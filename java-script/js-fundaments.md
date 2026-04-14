@@ -110,7 +110,7 @@ getCopyright();
 
 ### Naming conventions for functions
 
--Use camelCase. Example: `printCopyright`
+- Use camelCase. Example: `printCopyright`
 
 ```javascript
 function printCopyright() {
