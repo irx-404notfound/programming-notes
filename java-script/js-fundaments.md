@@ -79,7 +79,8 @@ Boolean(1) // true
 
 ## FUNCTIONS
 
-A function is a block of code that performs a specific set of tasks.
+> [!NOTE]
+> A function is a block of code that performs a specific set of tasks.
 
 ```javascript
 function printCopyright() {
