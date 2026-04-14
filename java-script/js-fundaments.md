@@ -97,6 +97,17 @@ To call the function, you need to use this:
 printCopyright();
 ```
 
+Una funcion tambien puede retornar un valor, es decir, nos va a devolver el valor de esa variable.
+
+```javascript
+function getCopyright() {
+  let copyright = "Iraia - 2026";
+  return copyright;
+}
+
+getCopyright();
+```
+
 ### Naming conventions for functions
 
 -Use camelCase.
