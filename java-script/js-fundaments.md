@@ -110,11 +110,13 @@ getCopyright();
 
 ### Naming conventions for functions
 
--Use camelCase.
+-Use camelCase. Example: `printCopyright`
 
-function `printCopyright`() {
+```javascript
+function printCopyright() {
   console.log("Iraia - 2026");
 }
+```
 
 - Use descriptive names.
 - Avoid spaces.
@@ -126,7 +128,7 @@ function `printCopyright`() {
 A parameter is a value that a function can receive when it is called.
 
 > [!NOTE]
-> Parameters are defined inside the `()` of a functions.
+> Parameters are defined inside the `()` of a function.
 
 ```javascript
 function getCopyright(name, year) { // name and year are parameters.
