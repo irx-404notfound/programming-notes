@@ -37,7 +37,7 @@ value = "hello"; // string
 value = true; // boolean
 ```
 
-- Casting: This type of variable is when the value changes from one type to another. JavaScript changes the type without yo ask, but you can force manually to change the type when you want.
+- Casting: This is the process of converting a value from one type to another. In JavaScript, dthis can happen automatically without you asking, or you can manually force the conversion when needed.
 
 Examples:
 
@@ -57,10 +57,10 @@ JavaScript changes the type without you ask:
 "5" - 2 // Result: 3
 ```
 
-When you force manually to change the type:
+When you manually force the type conversion:
 
 > [!NOTE]
-> You decide the conversion.
+> You explicitly control the conversion.
 
 ```javascript
 Number("5") // 5
