@@ -97,7 +97,7 @@ To call the function, you need to use this:
 printCopyright();
 ```
 
-Una funcion tambien puede retornar un valor, es decir, nos va a devolver el valor de esa variable.
+A function can also return a value, meaning it will give back the value of a variable. 
 
 ```javascript
 function getCopyright() {
