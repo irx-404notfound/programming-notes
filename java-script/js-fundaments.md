@@ -123,12 +123,12 @@ function printCopyright() {
 - Avoid unnecessary numbers.
 - Avoid punctuation marks.
 
-### FUNCTION EXPRESIONS
+### FUNCTION EXPRESSIONS
 
 #### ANONYMOUS FUNCTIONS
 
 > [!NOTE]
-> func variable have a anonymous function value. This is using to evit the hoisting.
+> A vaiable can store an anonymous function. This is useful to avoid hoisting issues.
 
 ```javascript
 let func = function (parameterOne) {
@@ -138,16 +138,39 @@ let func = function (parameterOne) {
 
 ##### ANONYMOUS FUNCTIONS IN ARGUMENTS
 
+> [!NOTE]
+> A function passed as a parameter is called a callback. The value can be another function, and the callback can also be declared directly in the function call.
+
+Example of a callback from another function:
+
 ```javascript
 function getCopyright(name, year, callback) {
   let copyright = callback(name, year);
   return copyright;
 }
 
+let formatWithPipe = function (name, year) {
+  return name + " | " + year;
+}
+
+let formatWithHypen = function (name, year) {
+  return name + " - " + year;
+}
+
+getCopyright("Iraia", 2026, formatWithPipe);
+```
+
+Example of a callback declared in the same call:
+
+```javascript
 function getCopyright(name, year, callback) {
   let copyright = callback(name, year);
   return copyright;
 }
+
+getCopyright("Iraia", 2026, function(name, year) {
+  return name + " | " + year;
+});
 ```
 
 ## PARAMETERS
@@ -162,6 +185,23 @@ function getCopyright(name, year) { // name and year are parameters.
   let copyright = name + " - " + year;
   return copyright;
 }
+```
+
+#### AUTO CALLED FUNCTION
+
+> [!NOTE]
+> Immediately invoked function expression.
+
+```javascript
+(function (name, year) {
+  console.log(name + " - " + year);
+})("Iraia", 2026);
+
+// --
+
+!function (name, year) {
+  console.log(name + " - " + year);
+}("Iraia", 2026);
 ```
 
 > [!NOTE]
