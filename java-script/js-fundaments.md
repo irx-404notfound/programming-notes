@@ -231,7 +231,42 @@ function getCopyright(name = "Iraia", year = "2026") {
   return copyright;
 }
 ```
-  
+
+## CONDITIONS - IF/ELSE
+
+> [!NOTE]
+> Conditional statements are used for decision-making in response to a situation.
+
+For example, imagine that you're angry and you want to eat pizza because it's your favourite food. So you ask yourself whether you have pizza at home. If you have pizza, you cook it and then eat it, but if you don't have it, you order it.
+
+Examples:
+
+```javascript
+let hasPizza = true;
+
+if (hasPizza == true) {
+  cook();
+} else {
+  orderPizza();
+}
+
+eat();
+```
+
+```javascript
+let hasPizza;
+
+if (hazPizza == true) {
+  cook();
+} else if (hasPizza == false) {
+  orderPizza();
+} else {
+  openFridge();
+}
+
+eat();
+```
+
 ## SYNTAX
 
 > [!IMPORTANT]
