@@ -267,6 +267,86 @@ if (hazPizza == true) {
 eat();
 ```
 
+## COMPARISON OPERATORS
+
+There are two types os comparison operators: logycal operators and comparison operators.
+
+### COMPARISON OPERATORS
+
+- Equality: `==`
+- Strict equality: `===`
+- Inequality: `!=`
+- Strict inequality: `!==`
+- Greater than: `>`
+- Less than: `<`
+- Greater or same like a: `>=`
+- Less or same like a: `<=`
+
+Examples:
+
+```javascript
+// Inequality example:
+
+let hasPizza;
+
+if (hasPizza != true) { // Is hasPizza different than true?
+  orderPizza();
+} else {
+  cook();
+}
+
+eat();
+
+// Strict inequality example:
+
+let hasPizza;
+
+if (hasPizza !== true) { // Is hasPizza different than true but with the same type, or no?
+  orderPizza();
+} else {
+  cook();
+}
+
+eat();
+
+// Greater than and less than example:
+
+// Whe can ask if one word is greater or less than another word.
+
+let randomWord = "student";
+
+if (randomWord > "angry") {
+  console.log(comes next);
+} else if (randomWord < "angry") {
+  console.log("go first");
+}
+```
+
+### LOGYCAL OPERATORS
+
+The logycal operators avaluate the comparison expressions. There are three types of it.
+
+- AND: `&&`
+- OR: `||`
+- NOT: `!`
+
+Examples:
+
+```javascript
+// AND && logycal operator example:
+// AND edvaluates the information expect that the two values are correct.
+
+let randomChar = "a";
+
+if (randomChar => "a" && randomChar < "m") { // va por orden de alfabeto????
+  console.log("go first");
+}
+
+// OR || logycal operator example:
+// OR evaluates the information and only expected that one is correct.
+
+```
+
 ## SYNTAX
 
 > [!IMPORTANT]
