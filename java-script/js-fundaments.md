@@ -173,6 +173,34 @@ getCopyright("Iraia", 2026, function(name, year) {
 });
 ```
 
+#### IMMEDIATELY INVOKED FUNCTION EXPRESSION (IIFE)
+
+> [!NOTE]
+> An Immediately Invoked Function Expression (IIFE) is a function that runs immediately after it is defined.
+
+```javascript
+(function (name, year) {
+  console.log(name + " - " + year);
+})("Iraia", 2026);
+
+// --
+
+!function (name, year) {
+  console.log(name + " - " + year);
+}("Iraia", 2026);
+```
+
+Other example:
+
+> [!NOTE]
+> `(function () {})` converts the function into an expression.
+
+```javascript
+(function () {
+  console.log("Hello");
+})();
+```
+
 ## PARAMETERS
 
 A parameter is a value that a function can receive when it is called.
@@ -185,23 +213,6 @@ function getCopyright(name, year) { // name and year are parameters.
   let copyright = name + " - " + year;
   return copyright;
 }
-```
-
-#### AUTO CALLED FUNCTION
-
-> [!NOTE]
-> Immediately invoked function expression.
-
-```javascript
-(function (name, year) {
-  console.log(name + " - " + year);
-})("Iraia", 2026);
-
-// --
-
-!function (name, year) {
-  console.log(name + " - " + year);
-}("Iraia", 2026);
 ```
 
 > [!NOTE]
