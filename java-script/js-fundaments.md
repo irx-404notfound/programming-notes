@@ -123,6 +123,33 @@ function printCopyright() {
 - Avoid unnecessary numbers.
 - Avoid punctuation marks.
 
+### FUNCTION EXPRESIONS
+
+#### ANONYMOUS FUNCTIONS
+
+> [!NOTE]
+> func variable have a anonymous function value. This is using to evit the hoisting.
+
+```javascript
+let func = function (parameterOne) {
+  return parameterOne + ":)";
+}
+```
+
+##### ANONYMOUS FUNCTIONS IN ARGUMENTS
+
+```javascript
+function getCopyright(name, year, callback) {
+  let copyright = callback(name, year);
+  return copyright;
+}
+
+function getCopyright(name, year, callback) {
+  let copyright = callback(name, year);
+  return copyright;
+}
+```
+
 ## PARAMETERS
 
 A parameter is a value that a function can receive when it is called.
