@@ -267,9 +267,9 @@ if (hazPizza == true) {
 eat();
 ```
 
-## COMPARISON OPERATORS
+## OPERATORS
 
-There are two types os comparison operators: logycal operators and comparison operators.
+There are two types of operators: comparison operators and logical operators.
 
 ### COMPARISON OPERATORS
 
@@ -279,17 +279,20 @@ There are two types os comparison operators: logycal operators and comparison op
 - Strict inequality: `!==`
 - Greater than: `>`
 - Less than: `<`
-- Greater or same like a: `>=`
-- Less or same like a: `<=`
+- Greater than or equal to: `>=`
+- Less than or equal to: `<=`
 
 Examples:
+
+> [!NOTE]
+> JavaScript compares strings using `Unicode` (numeric character codes).
 
 ```javascript
 // Inequality example:
 
 let hasPizza;
 
-if (hasPizza != true) { // Is hasPizza different than true?
+if (hasPizza != true) { // Is hasPizza different from true?
   orderPizza();
 } else {
   cook();
@@ -301,7 +304,7 @@ eat();
 
 let hasPizza;
 
-if (hasPizza !== true) { // Is hasPizza different than true but with the same type, or no?
+if (hasPizza !== true) { // Is hasPizza different from true and also a different type?
   orderPizza();
 } else {
   cook();
@@ -311,7 +314,7 @@ eat();
 
 // Greater than and less than example:
 
-// Whe can ask if one word is greater or less than another word.
+// Whe can check if one word is greater than or less than another word.
 
 let randomWord = "student";
 
@@ -324,7 +327,7 @@ if (randomWord > "angry") {
 
 ### LOGYCAL OPERATORS
 
-The logycal operators avaluate the comparison expressions. There are three types of it.
+Logical operators evaluate comparison expressions. There are three types:
 
 - AND: `&&`
 - OR: `||`
@@ -333,18 +336,32 @@ The logycal operators avaluate the comparison expressions. There are three types
 Examples:
 
 ```javascript
-// AND && logycal operator example:
-// AND edvaluates the information expect that the two values are correct.
+// AND && logical operator example:
+// AND evaluates the expression and returns true only if both conditions are true.
 
 let randomChar = "a";
 
-if (randomChar => "a" && randomChar < "m") { // va por orden de alfabeto????
+if (randomChar => "a" && randomChar < "m") {
   console.log("go first");
 }
 
-// OR || logycal operator example:
-// OR evaluates the information and only expected that one is correct.
+// OR || logical operator example:
+// OR evaluates the expression and returns true if at least one condition is true.
 
+let randomChar = "a";
+
+if (randomChar => "a" || randomChar < "m") {
+  console.log("go first");
+}
+
+// NOT ! logical operator example:
+// NOT negates the expression, converting it into its opposite value.
+
+let randomChar = "n";
+
+if (!(randomChar => "a") || !(randomCHar < "m")) { // randomChar isn't greater or equal than "a", or randomChar isn't less than "m"... 
+  console.log("comes next");
+}
 ```
 
 ## SYNTAX
