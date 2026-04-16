@@ -364,15 +364,45 @@ if (!(randomChar => "a") || !(randomCHar < "m")) { // randomChar isn't greater o
 }
 ```
 
-## FIELDS
+## SCOPES
 
-### GLOBAL FIELDS
+> [!NOTE]
+> Imagine that we are parents and we have a child. In this case, with scopes, children can access the information from their parents, but parents cannot access the information form their children.
+> 
+> Hierarchy order:
+> 1. Global scope
+> 2. Function scope
+> 3. Block scope
 
-### FUNCTION FIELDS
+### GLOBAL SCOPE
 
-### BLOQUE FIELDS
+Everything defined in the global scope is accessible throughout the entire script.
 
-### FORM FIELDS
+### FUNCTION SCOPE
+
+This refers to the context inside a function. Variables declared inside a function are only accessible within that function.
+
+### BLOQUE SCOPE
+
+This refers to the context inside a block (such has `if`, `for`, etc.). Variables declared with `let` or `const` are only accessible within that block.
+
+Example:
+
+```javascript
+let company = "GitHub";
+const year = 2026;
+
+function getAcademyInfo() {
+  let format = "Form " + company;
+
+  if (!year) {
+    let format = "Make in " + company;
+    return format;
+  }
+
+  return format + " in " + year;
+}
+```
 
 ## SYNTAX
 
