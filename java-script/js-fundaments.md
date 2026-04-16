@@ -389,14 +389,14 @@ This refers to the context inside a block (such has `if`, `for`, etc.). Variable
 Example:
 
 ```javascript
-let company = "GitHub";
-const year = 2026;
+let company = "GitHub"; // Global scope 🌍
+const year = 2026; // Global scope 🌍
 
 function getAcademyInfo() {
-  let format = "Form " + company;
+  let format = "Form " + company; // function scope 👶
 
   if (!year) {
-    let format = "Make in " + company;
+    let format = "Make in " + company; // block scope 🧑
     return format;
   }
 
