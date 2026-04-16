@@ -364,6 +364,16 @@ if (!(randomChar => "a") || !(randomCHar < "m")) { // randomChar isn't greater o
 }
 ```
 
+## FIELDS
+
+### GLOBAL FIELDS
+
+### FUNCTION FIELDS
+
+### BLOQUE FIELDS
+
+### FORM FIELDS
+
 ## SYNTAX
 
 > [!IMPORTANT]
