@@ -404,6 +404,47 @@ function getAcademyInfo() {
 }
 ```
 
+## JAVASCRIPT IN THE WEB
+
+How can I use JavaScript on the web?
+
+> To use JavaScript in web development, an HTML page is required. There are two ways to include scripts.
+
+1. Include scripts externally:
+
+   ```javascript
+    <script src='my_script.js'></script> // individual file
+   ```
+
+2. Include scripts inline:
+
+   ```javascript
+    <script>
+      console.log("Hello web world!"); // in the same file
+    </script>
+   ```
+
+### WEB API (APLICATION PROGRAMMING INTERFACE)
+
+A Web API is an interface that allows JavaScript to interact with the browser and the web. There are two main parts: JavaScript and the browser.
+
+You can think of a Web API as a translator. For example, if you speak Spanish and another person speaks English, the web API acts like a translator between you. If you say "¿Dónde están los baños?", the translator says "Where are the bathrooms?".
+
+#### DOCUMENT OBJECT MODEL (DOM)
+
+> [!NOTE]
+> The DOM is part of the Web API.
+
+- It represents the structure and content of a web page in memory.
+- It has a tree structure.
+- Each HTML element in the DOM is called a node.
+- Using the DOM, you can modify a web page:
+
+  - Modify elements.
+  - Add elements.
+  - Delete elements.
+  - Show or hide elements.
+
 ## SYNTAX
 
 > [!IMPORTANT]
