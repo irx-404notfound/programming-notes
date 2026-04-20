@@ -412,8 +412,8 @@ How can I use JavaScript on the web?
 
 1. Include scripts externally:
 
-   ```javascript
-    <script src='my_script.js'></script> // individual file
+   ```html
+    <script src='my_script.js'></script> <!-- external file -->
    ```
 
 2. Include scripts inline:
