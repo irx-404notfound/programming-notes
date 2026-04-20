@@ -445,6 +445,14 @@ You can think of a Web API as a translator. For example, if you speak Spanish an
   - Delete elements.
   - Show or hide elements.
 
+##### DOM INTERFACES
+
+> [!NOTE]
+> Allow us to interact with the browser.
+
+You can consult [here](https://developer.mozilla.org/en-US/docs/Web/API#interfaces) things about the web development.
+- WEB API
+
 ## SYNTAX
 
 > [!IMPORTANT]
