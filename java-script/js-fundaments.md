@@ -457,6 +457,26 @@ You can think of a Web API as a translator. For example, if you speak Spanish an
 - Event: Represents a event in the DOM
 - Element: Represens a node in the DOM.
 
+##### DOM EVENTS // CORREGIR
+
+- Element.Click
+
+  - This works when you click in a element of the DOM.
+  - Is a mouse event.
+  - Do click implies to click and release the buttom of the mouse.
+  - It refers to the principal buttom of the mouse.
+  - It have events properties like: the mouse position in X and Y, and if we press a some key during the click.
+ 
+  ```javascript
+    let linkRegister = document.querySelector("a.register");
+
+    linkRegister.addEventListener("click", function(event) {
+      console.log("You click in the register link");
+    });
+  ```
+
+- 
+
 ## SYNTAX
 
 > [!IMPORTANT]
