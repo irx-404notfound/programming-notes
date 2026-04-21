@@ -457,7 +457,7 @@ You can think of a Web API as a translator. For example, if you speak Spanish an
 - Event: Represents a event in the DOM
 - Element: Represens a node in the DOM.
 
-##### DOM EVENTS // CORREGIR
+##### DOM EVENTS
 
 - Element.Click
 
@@ -495,16 +495,16 @@ You can think of a Web API as a translator. For example, if you speak Spanish an
   - It's a clipboard event.
   - It allows you to control copy behavior on a webpage.
 
-  > [!NOTE]
-  > This script prevents content from being copied.
+> [!NOTE]
+> This script prevents content from being copied.
 
-    ```javascript
-      window.addEventListener("copy", function(event) {
-        event.preventDefault();
+  ```javascript
+    window.addEventListener("copy", function(event) {
+      event.preventDefault();
 
-        console.warn("Attempt to copy content");
-      });
-    ```
+      console.warn("Attempt to copy content");
+    });
+  ```
 
 ###### EVENT PROPAGATION
 
