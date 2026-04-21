@@ -445,7 +445,7 @@ You can think of a Web API as a translator. For example, if you speak Spanish an
   - Delete elements.
   - Show or hide elements.
 
-##### DOM INTERFACES // CORREGIR
+##### DOM INTERFACES
 
 > [!NOTE]
 > Allow us to interact with the browser.
@@ -461,11 +461,11 @@ You can think of a Web API as a translator. For example, if you speak Spanish an
 
 - Element.Click
 
-  - This works when you click in a element of the DOM.
-  - Is a mouse event.
-  - Do click implies to click and release the buttom of the mouse.
-  - It refers to the principal buttom of the mouse.
-  - It have events properties like: the mouse position in X and Y, and if we press a some key during the click.
+  - This event is triggered when you click on an element in the DOM.
+  - It's a mouse event.
+  - A click means pressing and releasing the main mouse button.
+  - It refers to the primary mouse button.
+  - It includes event properties such as mouse position (X and Y) and whether a key was pressed during the click.
  
   ```javascript
     let linkRegister = document.querySelector("a.register");
@@ -475,8 +475,73 @@ You can think of a Web API as a translator. For example, if you speak Spanish an
     });
   ```
 
-- 
+- Element.ContextMenu
 
+  - This event is triggered when you right-click on an element.
+  - It's a mouse event.
+  - A click means pressing and releasing the right-click mouse button.
+  - It refers to the secondary mouse button.
+  - It also provides properties such as mouse position and pressed keys.
+
+- window.BeforeUnload
+
+  - This event is triggered when the page is about to be unloaded.
+  - It's a loading/unloading event.
+  - It can be used to warn the user before leaving the page.
+
+- window.Copy
+
+  - This event is triggered when content is copied to the clipboard.
+  - It's a clipboard event.
+  - It allows you to control copy behavior on a webpage.
+
+  > [!NOTE]
+  > This script prevents content from being copied.
+
+    ```javascript
+      window.addEventListener("copy", function(event) {
+        event.preventDefault();
+
+        console.warn("Attempt to copy content");
+      });
+    ```
+
+###### EVENT PROPAGATION
+
+> [!NOTE]
+> Events propagate upward through the DOM tree (bubbliing). In many cases, it's better to control this behavior.
+
+```javascript
+  let linkRegister = document.querySelector("a.register");
+
+  linkregister.addEventListener("click", function (event) {
+    console.info(event);
+  });
+
+  document.addEventListener("click", function (event) {
+    console.warn(event);
+  });
+```
+
+> [!NOTE]
+> To stop event propagation, you can use: `stopPropagation()` and `stopImmediatePropagation()`.
+
+```javascript
+  let linkRegister = document.querySelector("a.register");
+
+  linkRegister.addEventListener("click", function (event) {
+    event.stopPropagation();
+
+    console.info(event);
+  });
+
+  document.addEventListener("event", function (event) {
+    event.stopImmediatePropagation();
+
+    console.warn(event);
+  });
+```
+ 
 ## SYNTAX
 
 > [!IMPORTANT]
