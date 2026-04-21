@@ -466,14 +466,14 @@ You can think of a Web API as a translator. For example, if you speak Spanish an
   - A click means pressing and releasing the main mouse button.
   - It refers to the primary mouse button.
   - It includes event properties such as mouse position (X and Y) and whether a key was pressed during the click.
- 
-  ```javascript
-    let linkRegister = document.querySelector("a.register");
 
-    linkRegister.addEventListener("click", function(event) {
-      console.log("You click in the register link");
-    });
-  ```
+```javascript
+  let linkRegister = document.querySelector("a.register");
+
+  linkRegister.addEventListener("click", function(event) {
+     console.log("You click in the register link");
+  });
+```
 
 - Element.ContextMenu
 
